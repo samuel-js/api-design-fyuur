@@ -40,6 +40,9 @@ deactivate nondestructive
 VIRTUAL_ENV="/Users/hem/samuel.jimenez@sanabria.se/programming/_udacity2020/FSND2020/2. SQL and Data Modeling/8. Project Fyyur/starter_code/env"
 export VIRTUAL_ENV
 
+
+
+
 _OLD_VIRTUAL_PATH="$PATH"
 PATH="$VIRTUAL_ENV/bin:$PATH"
 export PATH
